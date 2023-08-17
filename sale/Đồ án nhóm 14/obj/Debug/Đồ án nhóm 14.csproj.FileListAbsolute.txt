@@ -1,0 +1,45 @@
+D:\Đồ án nhóm 14\Đồ án nhóm 14\bin\Debug\Đồ án nhóm 14.exe.config
+D:\Đồ án nhóm 14\Đồ án nhóm 14\bin\Debug\Đồ án nhóm 14.exe
+D:\Đồ án nhóm 14\Đồ án nhóm 14\bin\Debug\Đồ án nhóm 14.pdb
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.csproj.AssemblyReference.cache
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.csproj.SuggestedBindingRedirects.cache
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.Properties.Resources.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.csproj.GenerateResource.cache
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.csproj.CoreCompileInputs.cache
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.exe
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.pdb
+D:\Đồ án nhóm 14\Đồ án nhóm 14\bin\Debug\Guna.UI2.dll
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.csproj.CopyComplete
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.chinhanh1.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.chinhanh2.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.chinhanh3.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.login.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.quanaonam.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.quanaonu.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.hoadon1.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.dienthoai.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.KHchinhanh.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.Danhmucsanpham.resources
+D:\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.EmployeeForm.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\bin\Debug\Đồ án nhóm 14.exe.config
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\bin\Debug\Đồ án nhóm 14.exe
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\bin\Debug\Đồ án nhóm 14.pdb
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\bin\Debug\Guna.UI2.dll
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.csproj.AssemblyReference.cache
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.csproj.SuggestedBindingRedirects.cache
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.chinhanh1.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.chinhanh2.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.Danhmucsanpham.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.dienthoai.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.EmployeeForm.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.hoadon1.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.KHchinhanh.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.Properties.Resources.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.quanaonam.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.quanaonu.resources
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.csproj.GenerateResource.cache
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.csproj.CoreCompileInputs.cache
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.csproj.CopyComplete
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.exe
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ án nhóm 14.pdb
+D:\20133039_HuynhCongHau\Đồ án nhóm 14\Đồ án nhóm 14\obj\Debug\Đồ_án_nhóm_14.Login.resources
